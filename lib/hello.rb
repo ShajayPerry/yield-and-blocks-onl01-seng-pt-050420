@@ -8,5 +8,7 @@ def hello_t(array)
   end
  
   array
+else 
+  puts ""
 end
 
